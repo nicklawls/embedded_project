@@ -19,5 +19,5 @@ I designed and implemented a simple music maker that allows the user to compose 
 ### Software
 * Atmel Studio 6, RIBS, Node.js/node-serialport
 ## Demo Video 
-Click here to view a video demonstration of the project.
+[Click here](http://youtu.be/jRDCazUHHsA) to view a video demonstration of the project.
 

@@ -22,5 +22,3 @@ I designed and implemented a simple music maker that allows the user to compose 
 ## Demo Video 
 [Click here](http://youtu.be/jRDCazUHHsA) to view a video demonstration of the project.
 
-[[youtube-{jRDCazUHHsA}-{688}x{387}]]
-

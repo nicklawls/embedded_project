@@ -18,6 +18,7 @@ I designed and implemented a simple music maker that allows the user to compose 
 * AVR AtMega1284 Microcontroller, Mini 8 by 8 LED Matrix, MAX7219 LED Matrix Driver IC, Silicon Labs USB to UART Bridge,Speaker, 7 Segment Display
 ### Software
 * Atmel Studio 6, RIBS, Node.js/node-serialport
+
 ## Demo Video 
 [Click here](http://youtu.be/jRDCazUHHsA) to view a video demonstration of the project.
 
